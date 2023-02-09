@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  width: 100vw;
+  width: 99vw;
   height: 5vw;
   color: red;
   position: relative;
@@ -17,6 +17,7 @@ h1 {
   background-color: hotpink;
   justify-content: center;
   display: flex;
+  border: 10px solid black;
 }
 
 .navbar {
@@ -26,9 +27,10 @@ h1 {
   flex-wrap: wrap;
   background-color: gray;
   height: 10vh;
-  width: 100vw;
+  width: 97vw;
   justify-content: space-around;
   padding: 1em;
+  border: 10px solid black;
 }
 
 .icons {
